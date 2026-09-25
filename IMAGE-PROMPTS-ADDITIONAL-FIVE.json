@@ -1,0 +1,68 @@
+{
+  "mode": "built-in image_gen",
+  "generation_requests": 5,
+  "variants": 0,
+  "retries": 0,
+  "images": [
+    {
+      "id": "lawn-care",
+      "aspect": "4:3",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional Australian residential garden-care homepage photography. A single natural editorial photograph, human and believable, highest available native quality and resolution. Realistic ordinary people, real skin and material texture, accurate anatomy, correct tool geometry, restrained natural color, true Australian planting. No text, captions, collage, borders, branding, logos, watermark, CGI, or excessive golden cast. Primary request: Landscape 4:3 photograph, close low three-quarter view of a realistic unbranded battery lawn mower cutting a neat but naturally imperfect residential lawn in Lane Cove, Sydney. Gardener's lower body and plain burgundy cotton work shirt partly visible behind the mower, tan work pants, practical footwear, realistic hands on mower handle. White weatherboard suburban home in background and a crisp lawn edge beside a timber deck. Clean daylight, useful detail in mower and grass. Composition feels candid and capable.",
+      "source": "/workspace/scratch/e7d729da0616/generated_images/exec-a05ab9f9-432d-4691-93ce-fb4a39170419.png",
+      "path": "/workspace/scratch/e7d729da0616/yardfolk-extra-five/lawn-care.png",
+      "width": 1448,
+      "height": 1086,
+      "format": "PNG",
+      "sha256": "4ae00f60703a6f277f3f139b3a2ad9f33657c258c8e14ef6aaf8c712a795f1a7",
+      "bytes": 2796520
+    },
+    {
+      "id": "hedge-care",
+      "aspect": "4:3",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional Australian residential garden-care homepage photography. A single natural editorial photograph, human and believable, highest available native quality and resolution. Realistic ordinary people, real skin and material texture, accurate anatomy, correct tool geometry, restrained natural color, true Australian planting. No text, captions, collage, borders, branding, logos, watermark, CGI, or excessive golden cast. Primary request: Landscape 4:3 photograph of a male gardener in a plain plum/burgundy cotton work shirt and khaki trousers using large manual hedge shears at chest height. Realistic two-handed grip, one hand securely on each shear handle, all fingers safely clear of the blades. Medium environmental side view of his working posture trimming a neat hedge beside a grey Sydney suburban fence in Lane Cove. Dappled soft sunlight, natural shrubs, understated professional work.",
+      "source": "/workspace/scratch/e7d729da0616/generated_images/exec-43612122-ce98-4bc7-b287-303642257938.png",
+      "path": "/workspace/scratch/e7d729da0616/yardfolk-extra-five/hedge-care.png",
+      "width": 1448,
+      "height": 1086,
+      "format": "PNG",
+      "sha256": "3ab865aa60d332394d7c17b2678588adbd0570cd357bf17cc6d8515345feba91",
+      "bytes": 2578333
+    },
+    {
+      "id": "garden-reset",
+      "aspect": "4:3",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional Australian residential garden-care homepage photography. A single natural editorial photograph, human and believable, highest available native quality and resolution. Realistic ordinary people, real skin and material texture, accurate anatomy, correct tool geometry, restrained natural color, true Australian planting. No text, captions, collage, borders, branding, logos, watermark, CGI, or excessive golden cast. Primary request: Landscape 4:3 wider photograph of a woman gardener in a plain plum work shirt raking fallen eucalyptus leaves along a garden path into a controlled pile. Show her full body, correctly held complete rake and a green garden-waste tub nearby. A real Lane Cove courtyard with a moderately tidy garden, real leaves, practical work in progress, and planted surrounds. Overcast daylight, straightforward candid environmental photography. One continuous scene; no split before-and-after.",
+      "source": "/workspace/scratch/e7d729da0616/generated_images/exec-57135f37-562d-4053-8d76-956ad7f4f31c.png",
+      "path": "/workspace/scratch/e7d729da0616/yardfolk-extra-five/garden-reset.png",
+      "width": 1448,
+      "height": 1086,
+      "format": "PNG",
+      "sha256": "4912544ec771b8f01ac863e7c301db16f951d11a59aaa63fa48822126cb0b4b3",
+      "bytes": 2983138
+    },
+    {
+      "id": "pots-and-planting",
+      "aspect": "4:3",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional Australian residential garden-care homepage photography. A single natural editorial photograph, human and believable, highest available native quality and resolution. Realistic ordinary people, real skin and material texture, accurate anatomy, correct tool geometry, restrained natural color, true Australian planting. No text, captions, collage, borders, branding, logos, watermark, CGI, or excessive golden cast. Primary request: Landscape 4:3 close wide photograph of hands at work potting a young citrus tree in a large terracotta pot on a Sydney patio. One gardener's torso in a plain plum work shirt is behind the pot; both hands clearly belong to that single person, one supporting the rootball and one arranging soil. Small plant trays and practical garden tools nearby, natural planted surroundings, clean sunny detail. The young citrus and terracotta pot anchor the scene. No duplicate or detached hands. Photograph above-ground patio container planting, with enough environmental context to distinguish it from a hands-in-ground closeup.",
+      "source": "/workspace/scratch/e7d729da0616/generated_images/exec-158c59ba-fd31-4114-9aa8-f78d2d2d6cdb.png",
+      "path": "/workspace/scratch/e7d729da0616/yardfolk-extra-five/pots-and-planting.png",
+      "width": 1448,
+      "height": 1086,
+      "format": "PNG",
+      "sha256": "e5bb294d5b7ea13d6f4a53344b0263636c947fd75fd768b08b02ba57a501ee0d",
+      "bytes": 2767019
+    },
+    {
+      "id": "garden-crew",
+      "aspect": "16:9",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional Australian residential garden-care homepage photography. A single natural editorial photograph, human and believable, highest available native quality and resolution. Realistic ordinary people, real skin and material texture, accurate anatomy, correct tool geometry, restrained natural color, true Australian planting. No text, captions, collage, borders, branding, logos, watermark, CGI, or excessive golden cast. Primary request: Panoramic landscape 16:9 photograph of two professional gardeners, a middle-aged woman and a younger man, wearing subtle plain plum cotton work shirts, standing beside a tidy ordinary Australian ute parked on a suburban Lane Cove driveway. They are reviewing a small paper garden plan together in relaxed candid discussion, looking at the plan rather than posing at the camera. A green established residential garden behind them, safe gardening equipment stowed securely in the ute. Realistic ordinary people and environment, soft morning daylight without strong golden cast. Paper plan shows only faint non-readable garden shapes; no readable text, number plates, logos or signage.",
+      "source": "/workspace/scratch/e7d729da0616/generated_images/exec-f8c4aa24-e512-49f3-929d-c620d7366dd2.png",
+      "path": "/workspace/scratch/e7d729da0616/yardfolk-extra-five/garden-crew.png",
+      "width": 1672,
+      "height": 941,
+      "format": "PNG",
+      "sha256": "db93cc83d1b830e2cc8f71e89f885859b4ee8d2fec85476fd297c11e4060ab45",
+      "bytes": 2670159
+    }
+  ]
+}
